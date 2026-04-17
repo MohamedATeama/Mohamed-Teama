@@ -35,7 +35,7 @@ const featuredProjects = [
     tech: ["React", "Tailwind", "TanStack Query", "framer-motion"],
     github: "https://github.com/MohamedATeama/LMS",
     live: "https://lms-front-live.vercel.app",
-    image: "/public/lmsProject.png",
+    image: "/lmsProject.png",
   },
 ];
 
